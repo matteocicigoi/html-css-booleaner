@@ -6,7 +6,28 @@ header{
     background-size: contain;
     height: 100px;
 }
-img{
+#logo{
     margin: 45px 0px 0px 8px;
     width: 150px;
+}
+/* Main */
+h1{
+    font-size:45px;
+}
+#autore{
+    margin-top: -35px;
+    color: grey;
+}
+a{
+    text-decoration: none;
+    color: #20A9E5;
+}
+#descrizione{
+    font-size: 12px;
+}
+.evidenzia{
+    background-color: yellow;
+}
+ul{
+    padding-left: 18px;
 }
