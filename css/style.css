@@ -1,0 +1,12 @@
+/* Header */
+header{
+    margin: -8px -8px 0px -8px;
+    background-color: #4EA0FF;
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+    height: 100px;
+}
+img{
+    margin: 45px 0px 0px 8px;
+    width: 150px;
+}
