@@ -31,3 +31,19 @@ a{
 ul{
     padding-left: 18px;
 }
+table{
+    width: 100%;
+    text-align: left;
+    border-spacing: 0px;
+    background-color: #B1E5F2;
+}
+#ultimaCella{
+    width: 50%;
+}
+th{
+    background-color: #20A9E5;
+    color: white
+}
+.rigaDispari{
+    background-color: white;
+}
