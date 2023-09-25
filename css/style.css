@@ -47,3 +47,22 @@ th{
 .rigaDispari{
     background-color: white;
 }
+/* Footer */
+h4{
+    color: grey;
+}
+.contenitoreFooter{
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+#immagine1{
+    background-image: url('../img/monitor.jpg');
+}
+#immagine2{
+    background-image: url('../img/graph.jpg');
+}
