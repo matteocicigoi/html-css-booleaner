@@ -1,0 +1,88 @@
+body{
+    background-color: #4EA0FF;
+    background-image: url('../img/pattern.png');
+    background-size: contain;
+}
+/* Header */
+header{
+    margin: -8px -8px 0px -8px;
+    background-color: #56c2dd;
+    height: 100px;
+    text-align: center;
+}
+#logo{
+    width: 200px;
+    padding-top: 30px;
+}
+div{
+    text-align: center;
+}
+/* Main */
+main{
+    width: 80%;
+    margin-left: 10%;
+    font-size: larger;
+}
+h1{
+    font-size:45px;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+#autore{
+    margin-top: -35px;
+    color: white;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    color: #ce7420;
+}
+#descrizione{
+    font-size: 12px;
+}
+.evidenzia{
+    background-color: yellow;
+}
+ul{
+    padding-left: 18px;
+}
+table{
+    width: 100%;
+    text-align: left;
+    border-spacing: 0px;
+    background-color: #B1E5F2;
+}
+#ultimaCella{
+    width: 50%;
+}
+th{
+    background-color: #20A9E5;
+    color: white
+}
+.rigaDispari{
+    background-color: white;
+}
+/* Footer */
+h4{
+    color: grey;
+}
+footer{
+    width: 80%;
+    margin-left: 10%;
+}
+.contenitoreFooter{
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+#immagine1{
+    background-image: url('../img/monitor.jpg');
+}
+#immagine2{
+    background-image: url('../img/graph.jpg');
+}
